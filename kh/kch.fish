@@ -1,10 +1,10 @@
 #!/bin/fish
-/workspaces/h1/mx/pnp.fish
-/workspaces/h1/mx/fixrs.fish
-/workspaces/h1/mx/st.sh
-/workspaces/h1/mx/aryt.fish
-/workspaces/h1/mx/tgpt.fish
-/workspaces/h1/mx/bun.fish
-/workspaces/h1/mx/tmuxx.fish
+/workspaces/KHMIX1/pnp.fish
+/workspaces/KHMIX1/fixrs.fish
+/workspaces/KHMIX1/st.sh
+/workspaces/KHMIX1/aryt.fish
+/workspaces/KHMIX1/tgpt.fish
+/workspaces/KHMIX1/bun.fish
+/workspaces/KHMIX1/tmuxx.fish
 
 
