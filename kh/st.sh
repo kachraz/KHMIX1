@@ -97,3 +97,5 @@ echo "###### Add shit to config fish ##########"
 echo "Pulling down config.fish --->"
 echo "cp ./gwz/config.fish ~/.config/fish/"
 cp ./kh/config.fish ~/.config/fish/
+echo "Installing NmapBooty --->"
+sudo apt install nmap -y
