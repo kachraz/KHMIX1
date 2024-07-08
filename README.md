@@ -27,3 +27,12 @@ shm              64M     0   64M   0% /dev/shm
 /dev/sdb1        44G  304K   42G   1% /tmp
 /dev/loop3       32G   18G   12G  61% /workspaces
 ```
+
+- See the amount of free RAM 
+```sh 
+> free -h 
+
+              total        used        free      shared  buff/cache   available
+Mem:          7.7Gi       2.7Gi       417Mi        66Mi       4.6Gi       4.7Gi
+Swap:            0B          0B          0B
+```
